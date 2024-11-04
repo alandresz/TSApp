@@ -1,0 +1,2 @@
+# TSApp
+ThoughtSpot Embedding App
